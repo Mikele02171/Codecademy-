@@ -1,0 +1,2 @@
+Date And Time Functions Link
+https://www.sqlite.org/lang_datefunc.html
