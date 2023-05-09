@@ -1,0 +1,2 @@
+Youtube Link Learn Python: Datetimes
+https://www.codecademy.com/courses/learn-python-3/videos/learn-python3-datetimes
