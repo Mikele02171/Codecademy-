@@ -3,7 +3,10 @@ Here are my materials/courses I took from Codeacademy.
 Currently adding new material for the following career paths very soon.
 
 In Progress:<br />
+Skill Paths:<br />
 -Learn Java (36%) <br />
+
+Career Paths:<br />
 -Data Engineering Career Path (25%) <br />
 -Business Intelligence Data Analyst (25%) <br />
 -Data Scientist: Analytics Specialist (18%) <br />
