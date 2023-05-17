@@ -5,7 +5,7 @@ Currently adding new material for the following career paths very soon. <br />
 Skill Paths:<br />
 -Learn Python (COMPLETED) <br />
 -Learn SQL (COMPLETED) <br />
--Learn Java (36%) <br />
+-Learn Java (44%) <br />
 
 Career Paths:<br />
 -Data Engineering Career Path (25%) <br />
