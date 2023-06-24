@@ -4,6 +4,7 @@ Currently adding new material for the following career paths very soon. <br />
 
 Courses:<br />
 -Learn Python (COMPLETED) <br />
+-Differential Calculus (COMPLETED) <br />
 -Learn SQL (COMPLETED) <br />
 -Learn Java (COMPLETED) <br />
 -Learn R (In Progress) <br />
