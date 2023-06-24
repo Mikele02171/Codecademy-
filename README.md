@@ -6,6 +6,7 @@ Courses:<br />
 -Learn Python (COMPLETED) <br />
 -Learn SQL (COMPLETED) <br />
 -Learn Java (COMPLETED) <br />
+-Learn R (In Progress) <br />
 
 Career Paths:<br />
 -Data Engineering Career Path (25%) <br />
