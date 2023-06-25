@@ -8,6 +8,7 @@ Courses:<br />
 -Learn SQL (COMPLETED) <br />
 -Learn Java (COMPLETED) <br />
 -Learn R (In Progress) <br />
+-Soon be adding more content <br />
 
 Career Paths:<br />
 -Data Engineering Career Path (25%) (ON HOLD) <br />
