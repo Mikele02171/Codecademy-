@@ -11,7 +11,6 @@ Courses:<br />
 -Soon be adding more content <br />
 
 Career Paths:<br />
--Data Engineering Career Path (25%) (ON HOLD) <br />
 -Business Intelligence Data Analyst (25%) (ON HOLD)  <br />
 -Data Scientist: Analytics Specialist (18%) (ON HOLD)  <br />
 
