@@ -11,8 +11,8 @@ Courses:<br />
 -Soon be adding more content <br />
 
 Career Paths:<br />
--Business Intelligence Data Analyst (36%) (In Progress)  <br />
--Data Scientist: Analytics Specialist (24%) (In Progress)  <br />
+-Business Intelligence Data Analyst (44%) (In Progress)  <br />
+-Data Scientist: Analytics Specialist (30%) (In Progress)  <br />
 
 P.S. Remind myself if you want to see the code yourself. 
 Log in and re-jog your memory with enough practise.
