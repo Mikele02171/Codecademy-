@@ -8,7 +8,7 @@ Courses:<br />
 -Learn SQL (COMPLETED) <br />
 -Learn Java (COMPLETED) <br />
 -Learn R (COMPLETED) (In Progress) <br />
--Learn C (54%) <br />
+-Learn C (COMPLETED) (In Progress) <br />
 -Soon be adding more content <br />
 
 
