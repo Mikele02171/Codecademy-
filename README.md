@@ -7,7 +7,7 @@ Courses:<br />
 -Differential Calculus (COMPLETED) <br />
 -Learn SQL (COMPLETED) <br />
 -Learn Java (COMPLETED) <br />
--Learn R (COMPLETED) (In Progress) <br />
+-Learn R (COMPLETED) <br />
 -Learn C Skill Path (COMPLETED) <br />
 -Soon be adding more content <br />
 
